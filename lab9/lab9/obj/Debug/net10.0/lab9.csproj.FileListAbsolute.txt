@@ -1,0 +1,14 @@
+D:\cs_tasks\lab9\lab9\bin\Debug\net10.0\lab9.exe
+D:\cs_tasks\lab9\lab9\bin\Debug\net10.0\lab9.deps.json
+D:\cs_tasks\lab9\lab9\bin\Debug\net10.0\lab9.runtimeconfig.json
+D:\cs_tasks\lab9\lab9\bin\Debug\net10.0\lab9.dll
+D:\cs_tasks\lab9\lab9\bin\Debug\net10.0\lab9.pdb
+D:\cs_tasks\lab9\lab9\obj\Debug\net10.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs_tasks\lab9\lab9\obj\Debug\net10.0\lab9.AssemblyInfoInputs.cache
+D:\cs_tasks\lab9\lab9\obj\Debug\net10.0\lab9.AssemblyInfo.cs
+D:\cs_tasks\lab9\lab9\obj\Debug\net10.0\lab9.csproj.CoreCompileInputs.cache
+D:\cs_tasks\lab9\lab9\obj\Debug\net10.0\lab9.dll
+D:\cs_tasks\lab9\lab9\obj\Debug\net10.0\refint\lab9.dll
+D:\cs_tasks\lab9\lab9\obj\Debug\net10.0\lab9.pdb
+D:\cs_tasks\lab9\lab9\obj\Debug\net10.0\lab9.genruntimeconfig.cache
+D:\cs_tasks\lab9\lab9\obj\Debug\net10.0\ref\lab9.dll

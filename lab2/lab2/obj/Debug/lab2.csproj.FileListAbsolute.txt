@@ -1,0 +1,13 @@
+D:\cs_tasks\lab2\lab2\bin\Debug\lab2.exe.config
+D:\cs_tasks\lab2\lab2\bin\Debug\lab2.exe
+D:\cs_tasks\lab2\lab2\bin\Debug\lab2.pdb
+D:\cs_tasks\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\cs_tasks\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\cs_tasks\lab2\lab2\obj\Debug\lab2.exe
+D:\cs_tasks\lab2\lab2\obj\Debug\lab2.pdb
+D:\cs_tasks\lab2\lab2\bin\Debug\MathNet.Numerics.dll
+D:\cs_tasks\lab2\lab2\bin\Debug\System.ValueTuple.dll
+D:\cs_tasks\lab2\lab2\bin\Debug\MathNet.Numerics.xml
+D:\cs_tasks\lab2\lab2\bin\Debug\System.ValueTuple.xml
+D:\cs_tasks\lab2\lab2\obj\Debug\lab2.csproj.Up2Date
+D:\cs_tasks\lab2\lab2\obj\Debug\lab2.exe.config

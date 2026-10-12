@@ -1,0 +1,14 @@
+D:\cs_tasks\lab8\lab8\bin\Debug\net10.0\lab8.exe
+D:\cs_tasks\lab8\lab8\bin\Debug\net10.0\lab8.deps.json
+D:\cs_tasks\lab8\lab8\bin\Debug\net10.0\lab8.runtimeconfig.json
+D:\cs_tasks\lab8\lab8\bin\Debug\net10.0\lab8.dll
+D:\cs_tasks\lab8\lab8\bin\Debug\net10.0\lab8.pdb
+D:\cs_tasks\lab8\lab8\obj\Debug\net10.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs_tasks\lab8\lab8\obj\Debug\net10.0\lab8.AssemblyInfoInputs.cache
+D:\cs_tasks\lab8\lab8\obj\Debug\net10.0\lab8.AssemblyInfo.cs
+D:\cs_tasks\lab8\lab8\obj\Debug\net10.0\lab8.csproj.CoreCompileInputs.cache
+D:\cs_tasks\lab8\lab8\obj\Debug\net10.0\lab8.dll
+D:\cs_tasks\lab8\lab8\obj\Debug\net10.0\refint\lab8.dll
+D:\cs_tasks\lab8\lab8\obj\Debug\net10.0\lab8.pdb
+D:\cs_tasks\lab8\lab8\obj\Debug\net10.0\lab8.genruntimeconfig.cache
+D:\cs_tasks\lab8\lab8\obj\Debug\net10.0\ref\lab8.dll
